@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Little Mom (2021)",
+    "slug": "little-mom-2021",
+    "img": "/assets/images/1550372283.jpg",
+    "desc": "Little Mom bercerita tentang Naura (Natasha Wilona), seorang gadis cantik berusia 16 tahun berprestasi yang merupakan kebanggaan orang tua yang bercita-cita menjadi. seorang dokter kandungan. Sayangnya, mimpinya berantakan karena mengandung Yuda (Teuku Rassya), cowok keren dan populer di sekolah. Situasi menjadi lebih rumit karena Yuda pindah ke Jepang dan Naura harus menghadapi Keenan (Al Ghazali), pembuat onar di sekolah tetapi selalu ada untuk Naura di saat-saat sulit. Naura juga harus menghadapi Celine (Elina Joerg), rival tangguh Naura di setiap laga way, yang juga suka Keenan.",
+    "episode": [
+      {
+        "ep": 1,
+        "url": "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2Uvc2F2aGhtd250a2Rm"
+      },
+      {
+        "ep": 2,
+        "url": "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2UvdDhubzM2dDV5bmV2"
+      },
+      {
+        "ep": 3,
+        "url": "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2UvOXZsaTl1cGNmNGl3"
+      }
+    ]
+  }
+]
