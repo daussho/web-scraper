@@ -7,15 +7,47 @@
     "episode": [
       {
         "ep": 1,
-        "url": "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2Uvc2F2aGhtd250a2Rm"
+        "url": [
+          "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2Uvc2F2aGhtd250a2Rm"
+        ]
       },
       {
         "ep": 2,
-        "url": "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2UvdDhubzM2dDV5bmV2"
+        "url": [
+          "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2UvdDhubzM2dDV5bmV2"
+        ]
       },
       {
         "ep": 3,
-        "url": "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2UvOXZsaTl1cGNmNGl3"
+        "url": [
+          "http://167.88.14.147/iembed/?source=aHR0cHM6Ly9kb29kLmxhL2UvOXZsaTl1cGNmNGl3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lovers of the Red Sky",
+    "slug": "lovers-of-the-red-sky",
+    "img": "https://i3.wp.com/oppadrama.me/wp-content/uploads/2021/08/Lovers-of-the-Red-Sky.jpg",
+    "desc": "Ditetapkan melalui teknologi Joseon, Hong Cheon Ki adalah seorang pelukis wanita dengan jenius seperti keterampilan menggambarkan. Dia dipilih karena pelukis wanita pertama dari Dohwaseo (Akademi Seni Lukis Kerajaan Korea). Hong Cheon Ki juga memiliki paras yang cantik dan karakter yang ceria. Baginya, melukis adalah segalanya. Suatu hari, dia bertemu Ha Ram.\n Ha Ram adalah seorang perwira di Seowoongwan, sebuah kantor di tingkat astronomi, geografi, seni ramalan, dan meteorologi. Ketika ia menjadi muda, sebuah putaran nasib membawanya untuk berakhir buta. Hong Cheon Ki jatuh cinta padanya dan dia tidak peduli dia buta. Hong Cheon Ki terus tampil di depan Ha Ram dan dia mendapati dirinya menantikannya.",
+    "episode": [
+      {
+        "ep": 1,
+        "url": []
+      },
+      {
+        "ep": 2,
+        "url": []
+      },
+      {
+        "ep": 3,
+        "url": []
+      },
+      {
+        "ep": 4,
+        "url": [
+          "https://drive.google.com/uc?export=download&id=1MmhogYQis9IGUYMfDgzBlc79IomYY1JF"
+        ]
       }
     ]
   }
